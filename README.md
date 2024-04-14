@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Using This Template
-`degit SharkyBytes/Reactzippy ./<directory name>`
+`degit SharkyBytes/Zippy ./<directory name>`
 
 ## Available Scripts
 
