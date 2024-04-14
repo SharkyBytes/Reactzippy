@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Using This Template
+`degit SharkyBytes/Reactzippy ./<directory name>`
+
 ## Available Scripts
 
 In the project directory, you can run:
